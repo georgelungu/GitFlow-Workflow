@@ -1,0 +1,15 @@
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitflow-workflow\gitflow_wflow\bin\Release\net8.0\gitflow_wflow.exe
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitflow-workflow\gitflow_wflow\bin\Release\net8.0\gitflow_wflow.deps.json
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitflow-workflow\gitflow_wflow\bin\Release\net8.0\gitflow_wflow.runtimeconfig.json
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitflow-workflow\gitflow_wflow\bin\Release\net8.0\gitflow_wflow.dll
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitflow-workflow\gitflow_wflow\bin\Release\net8.0\gitflow_wflow.pdb
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitflow-workflow\gitflow_wflow\obj\Release\net8.0\gitflow_wflow.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitflow-workflow\gitflow_wflow\obj\Release\net8.0\gitflow_wflow.AssemblyInfoInputs.cache
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitflow-workflow\gitflow_wflow\obj\Release\net8.0\gitflow_wflow.AssemblyInfo.cs
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitflow-workflow\gitflow_wflow\obj\Release\net8.0\gitflow_wflow.csproj.CoreCompileInputs.cache
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitflow-workflow\gitflow_wflow\obj\Release\net8.0\gitflow_wflow.sourcelink.json
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitflow-workflow\gitflow_wflow\obj\Release\net8.0\gitflow_wflow.dll
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitflow-workflow\gitflow_wflow\obj\Release\net8.0\refint\gitflow_wflow.dll
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitflow-workflow\gitflow_wflow\obj\Release\net8.0\gitflow_wflow.pdb
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitflow-workflow\gitflow_wflow\obj\Release\net8.0\gitflow_wflow.genruntimeconfig.cache
+D:\Nexus_DevOps\DEVOPS\CODE\branching-strategies\gitflow-workflow\gitflow_wflow\obj\Release\net8.0\ref\gitflow_wflow.dll

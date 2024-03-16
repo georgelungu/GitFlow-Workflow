@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "gitflow_wflow/1.0.0": {
+        "runtime": {
+          "gitflow_wflow.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "gitflow_wflow/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
